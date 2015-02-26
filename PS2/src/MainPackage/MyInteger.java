@@ -2,7 +2,7 @@ package MainPackage;
 
 public class MyInteger {
 
-	// Data field to store int value
+	// Data field for int value
 	private int value;
 
 	// Constructor
